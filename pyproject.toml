@@ -1,0 +1,13 @@
+[project]
+name = "unitree-robot-control"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "cyclonedds==0.10.2",
+    "unitree-sdk2py",
+]
+
+[tool.uv.sources]
+unitree-sdk2py = { url = "https://github.com/freya-aino/unitree_sdk2_python/releases/download/v1.0.2/unitree_sdk2py-1.0.2-py3-none-any.whl" }
