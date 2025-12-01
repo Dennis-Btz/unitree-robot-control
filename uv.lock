@@ -317,7 +317,7 @@ dependencies = [
     { name = "opencv-python" },
 ]
 wheels = [
-    { url = "https://github.com/freya-aino/unitree_sdk2_python/releases/download/v1.0.1/unitree_sdk2py-1.0.1-py3-none-any.whl", hash = "sha256:aba12d0de1f096c3b186fa728ef0088887bc3534491981a08810742797f498f8" },
+    { url = "https://github.com/freya-aino/unitree_sdk2_python/releases/download/v1.0.1/unitree_sdk2py-1.0.1-py3-none-any.whl", hash = "sha256:393c6c22d6d3a993d9a3f7ab32249fceeebf0995d6625fde21142b052b8cfa5c" },
 ]
 
 [package.metadata]
